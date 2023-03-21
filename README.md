@@ -4,11 +4,12 @@ This repo leads to many of the best choice learning resources that one might vis
 
 Here are some reading resources:
 
+- HTTP guides and spec (response code RFCs - response dogs - basic HTTP tutorial)
+- REST API basics (https://restfulapi.net/)
+- RAML resources (raml.org)
 - Error Handling demystified
 - DataWeave Playground (dwlang.fun)
 - Self-Study FND Course Online
-- RAML community hub
-- HTTP guides and spec
 - Developer Mini-Courses
 - Regular Expression playground (regex.io)
 - How to create a Crontab file - (crontab.io)
