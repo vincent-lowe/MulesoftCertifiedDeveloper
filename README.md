@@ -8,7 +8,7 @@ Here are some reading resources:
 - REST API basics (https://restfulapi.net/)
 - RAML resources (raml.org)
 - [Error Handling Demystified](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/) - tutorial by Kyle Burke
-- DataWeave Playground (dwlang.fun)
+- [DataWeave Playground](https://dataweave.mulesoft.com/learn/playground)
 - Self-Study FND Course Online
 - Developer Mini-Courses
 - Regular Expression playground (regex.io)
