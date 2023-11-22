@@ -11,7 +11,7 @@ Here are some reading resources:
 - [DataWeave Playground](https://dataweave.mulesoft.com/learn/playground)
 - Self-Study FND Course Online
 - Developer Mini-Courses
-- Regular Expression playground (regex.io)
-- How to create a Crontab file - (crontab.io)
+- [Regular Expression playground](https://regex101.com/)
+- How to create a Crontab file - ([crontab generator](http://www.crontabgenerator.com/))
 
 You don't need to read or study ALL of these things to become certified, but all of them will help you in different ways.
