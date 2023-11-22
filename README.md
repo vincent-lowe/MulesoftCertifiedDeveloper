@@ -4,7 +4,7 @@ This repo leads to many of the best choice learning resources that one might vis
 
 Here are some reading resources:
 
-- HTTP guides and spec (response code RFCs - [response dogs](https://http.dog/) - basic HTTP tutorial)
+- HTTP guides and [spec](https://www.rfc-editor.org/rfc/rfc9112.html) (response code RFCs - [response dogs](https://http.dog/) - basic HTTP tutorial)
 - REST API basics (https://restfulapi.net/)
 - RAML resources (raml.org)
 - Error Handling demystified
