@@ -6,7 +6,7 @@ Here are some reading resources:
 
 - HTTP guides and [spec](https://www.rfc-editor.org/rfc/rfc9112.html) (response code RFCs - [response dogs](https://http.dog/) - basic HTTP tutorial)
 - REST API basics (https://restfulapi.net/)
-- RAML resources (raml.org)
+- RAML resources [raml.org](https://raml.org)
 - [Error Handling Demystified](https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/) - tutorial by Kyle Burke
 - [DataWeave Playground](https://dataweave.mulesoft.com/learn/playground)
 - Self-Study FND Course Online
